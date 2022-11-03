@@ -1,0 +1,38 @@
+body{
+  margin:0;
+}
+.header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 920px;
+  background:#2269bb;
+}
+.widget{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 250px;
+  width: 300px;
+  background: #16457a;
+}
+.footer{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  height: 400px;
+  width: 920px;
+  background:#2269bb;
+}
+.main_w{
+  padding-bottom: 10px;
+  padding-top: 10px;
+  height: 250px;
+  width: 920px;
+  display: flex;
+  justify-content: space-between;
+}
+h1{
+  color: white;
+}
